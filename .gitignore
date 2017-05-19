@@ -1,0 +1,5 @@
+.ssh/*
+sshscripts/*
+vim/undo/*
+vim/backup/*
+vim/swap/*

@@ -1,0 +1,6 @@
+--pager=less -RSFX
+# display two lines before and after found search
+# .zshrc config aliases grep with ack, where this setting gets overwritten (not useful when grepping from pipe)
+-A2
+-B2
+--smart-case

@@ -1,0 +1,6 @@
+setxkbmap ch
+~/.screenlayout/portrait_landscape_portrait2.sh
+#feh --bg-scale ~/Pictures/city/wallhaven-184491.jpg # replaced with Esetroot from eterm package
+Esetroot ~/Pictures/city/wallhaven-184494.jpg
+compton&
+#sudo mount -t cifs //10.0.0.11/me meserver -o user=me,password=password

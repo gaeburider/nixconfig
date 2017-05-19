@@ -1,0 +1,2 @@
+./cebausbstick.sh
+./homedir.sh

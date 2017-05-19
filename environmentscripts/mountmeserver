@@ -1,0 +1,1 @@
+sudo mount -t cifs //10.0.0.11/me /home/me/meserver -o user=me,password=password

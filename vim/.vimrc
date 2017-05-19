@@ -1,0 +1,1 @@
+so $HOME/nixconfig/.vim/vimrc.vim
