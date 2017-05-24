@@ -3,3 +3,10 @@ sshscripts/*
 vim/undo/*
 vim/backup/*
 vim/swap/*
+
+# keep folder, so add a few exceptions for the placeholder files
+!.ssh/.gitkeep
+!sshscripts/.gitkeep
+!vim/undo/.gitkeep
+!vim/swap/.gitkeep
+!vim/backup/.gitkeep
