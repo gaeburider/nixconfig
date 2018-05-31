@@ -24,6 +24,9 @@ Although it shouldn't destroy something permamentely, please use this script wit
 ### Installation
 
 1. checkout repository to `~/.nixconfig`
+    ```bash
+    git clone https://github.com/gaeburider/nixconfig.git .nixconfig
+    ```
 2. install symlinks:
     ```bash
     chmod +x ~/.nixconfig/installlinks.sh
@@ -35,7 +38,7 @@ Although it shouldn't destroy something permamentely, please use this script wit
 Add things created by me are under the WTFPL license.
 
 Things I have copied remain under the license/copyright of their respective owner. This means (among others I forgot to include) the following files (or part of them) remain under the copyright of their authors:
-. Everything in `.fonts`
-. zshthemes/spectrum.zsh
-. Parts of vim/vimrc.vim that are indicated by a comment
-. Altered config files where the original license still applies
+* Everything in `.fonts`
+* zshthemes/spectrum.zsh
+* Parts of vim/vimrc.vim that are indicated by a comment
+* Altered config files where the original license still applies
